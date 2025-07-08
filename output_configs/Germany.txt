@@ -99,6 +99,8 @@ ss://Parsashonam-249@185.146.173.39:8880?path=%2F&security=none&encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllOWJhNy1kM2MyLTQxNWUtYmUxNC1lYTRkYWM4OTdhMmQ=@freea.glyphara.com:36471#15%7C28%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%7C%E5%AE%98%E7%BD%91%EF%BC%9Aa5b3cloud.pro
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpESjdGWWdhQm9TUlFGVDVrTVE1cDFW@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20DE-81.19.141.45%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKS2VTZTVmakx0T3pVcVVGeEFJSWNz@h110vpnde.outlinekeys.net:21712#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+h110vpnde.outlinekeys.net-21712+%7C+466ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#SS-%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A-NF%E8%A7%A3%E9%94%81%E5%BE%B7%E5%9B%BD%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.144.54.33%3A34803
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%F0%9F%87%A9%F0%9F%87%AADE-138.124.115.157-0278
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#%F0%9F%87%A9%F0%9F%87%AA%20DE-45.150.32.13%3A38707
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDQ4NWNhZS1jNjE0LTRlNmItOGVkMy1iYjUyZTUyOGNkNzY=@freem.vidalith.com:31471#2%7C29%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%7C%E5%AE%98%E7%BD%91%EF%BC%9Amikasacloud.site
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuakFLeWRUblRuSTJxTENmTW9hM3Vj@80.71.157.175:38211#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+80.71.157.175-38211+%7C+151.33ms
@@ -162,7 +164,6 @@ ss://ffbfcabb-f684-4f7e-a024-088dcd89c244@vip1.proxystore11.news:15110?type=xhtt
 trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20D%C3%BCsseldorf%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://ehydGPDjwkFpV-uwO7di4A@178.63.244.9:443?security=none&headerType=none&type=tcp#Germany%20-%20Falkenstein🇩🇪@BugFreeNet
 trojan://telegram-id-directvpn@3.72.132.84:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
 trojan://telegram-id-directvpn@63.176.225.52:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
 trojan://telegram-id-privatevpns@3.76.138.183:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AAGermany
