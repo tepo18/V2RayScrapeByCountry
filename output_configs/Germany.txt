@@ -19,7 +19,6 @@ ss://190492bf-0111-451b-aa16-3490dacd1be7@nodes.maviks.eu:8443?security=reality&
 ss://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://1e547e90-9c6c-4695-9537-15aab4e14aa0@157.230.17.102:19000?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FBad%20Oeynhausen%F0%9F%85%BF%EF%B8%8Fping%3A27.83ms
-ss://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://20fe9385-f429-4dc4-acc8-2e372a3d982b@165.22.69.147:443?type=xhttp&path=%2FGrizzly&host=&mode=auto&security=reality&pbk=y_QTFoFtDtkpJ57ypPCThsAyV9az-MmZQcCR9F-o7Ew&fp=chrome&sni=yahoo.com&sid=42a22604946c86&spx=%2F#REALITY|DE🇩🇪
 ss://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#DE🇩🇪
 ss://2ea7e612-d25e-443c-8293-e35dc12d2684@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#DE🇩🇪
@@ -106,7 +105,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpESjdGWWdhQm9TUlFGVDVrTVE1cDFW@81.19.141.45:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKS2VTZTVmakx0T3pVcVVGeEFJSWNz@h110vpnde.outlinekeys.net:21712#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+h110vpnde.outlinekeys.net-21712+%7C+466ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#%F0%9F%87%A9%F0%9F%87%AA%20DE-45.150.32.13%3A38707
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMDQ4NWNhZS1jNjE0LTRlNmItOGVkMy1iYjUyZTUyOGNkNzY=@freem.vidalith.com:31471#2%7C29%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%7C%E5%AE%98%E7%BD%91%EF%BC%9Amikasacloud.site
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#%F0%9F%87%A9%F0%9F%87%AA%20DE%20freeiranianv2rey%20new@freeiranianv2rey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuakFLeWRUblRuSTJxTENmTW9hM3Vj@80.71.157.175:38211#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+80.71.157.175-38211+%7C+151.33ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM@beta.mattenadene.org:54075#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(4)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A9%F0%9F%87%AA%20DE-185.177.229.245:1866
@@ -192,7 +190,6 @@ vless://190492bf-0111-451b-aa16-3490dacd1be7@nodes.maviks.eu:8443?security=reali
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://1e547e90-9c6c-4695-9537-15aab4e14aa0@157.230.17.102:19000?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FBad%20Oeynhausen%F0%9F%85%BF%EF%B8%8Fping%3A27.83ms
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://20fe9385-f429-4dc4-acc8-2e372a3d982b@165.22.69.147:443?type=xhttp&path=%2FGrizzly&host=&mode=auto&security=reality&pbk=y_QTFoFtDtkpJ57ypPCThsAyV9az-MmZQcCR9F-o7Ew&fp=chrome&sni=yahoo.com&sid=42a22604946c86&spx=%2F#REALITY|DE🇩🇪
 vless://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#DE🇩🇪
 vless://2ea7e612-d25e-443c-8293-e35dc12d2684@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#DE🇩🇪

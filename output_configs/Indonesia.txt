@@ -2,7 +2,6 @@ ss://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gu
 ss://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%BF
 ss://1375d25a-f70e-4843-8dda-ef8d71add584@iranvpnplus.set7.site:12394?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?encryption=none&security=tls&sni=id.lanexa.my.id&type=ws&host=id.lanexa.my.id&path=%2Fvless#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%A9%C2%AE%EF%B8%8FIndonesia%C2%A9%EF%B8%8FHarapan%20Indah%F0%9F%85%BF%EF%B8%8Fping%3A193.97ms
-ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.2:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
 ss://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v2.hiddendom.shop#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
@@ -47,7 +46,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#Free%24%20666%20ID%28%40Outline_Vpn%
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B3%F0%9F%87
@@ -110,7 +108,6 @@ vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%BF
 vless://1375d25a-f70e-4843-8dda-ef8d71add584@iranvpnplus.set7.site:12394?security=none&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?encryption=none&security=tls&sni=id.lanexa.my.id&type=ws&host=id.lanexa.my.id&path=%2Fvless#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%A9%C2%AE%EF%B8%8FIndonesia%C2%A9%EF%B8%8FHarapan%20Indah%F0%9F%85%BF%EF%B8%8Fping%3A193.97ms
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.2:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AC
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AA
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v2.hiddendom.shop#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
