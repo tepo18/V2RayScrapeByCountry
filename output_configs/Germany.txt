@@ -98,7 +98,6 @@ ss://Parsashonam-249@185.146.173.39:8880?path=%2F&security=&encryption=none&host
 ss://Parsashonam-249@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#DE🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllOWJhNy1kM2MyLTQxNWUtYmUxNC1lYTRkYWM4OTdhMmQ=@freea.glyphara.com:36471#15%7C28%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%7C%E5%AE%98%E7%BD%91%EF%BC%9Aa5b3cloud.pro
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k%3D@85.208.139.203:443#Germany@Vpnstable
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNzJoU3BqaTZqdnZqVW9hRjFTWnNp@80.71.157.175:38211#Germany@Vpnstable
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpESjdGWWdhQm9TUlFGVDVrTVE1cDFW@81.19.141.45:443#%F0%9F%87%A9%F0%9F%87%AA%20DE-81.19.141.45%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKS2VTZTVmakx0T3pVcVVGeEFJSWNz@h110vpnde.outlinekeys.net:21712#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+h110vpnde.outlinekeys.net-21712+%7C+466ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#%F0%9F%87%A9%F0%9F%87%AA%20DE-45.150.32.13%3A38707
