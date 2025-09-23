@@ -31,6 +31,7 @@ ss://telegram-id-ArV2ray@zula.ir:2087?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ra
 trojan://02XtoczO7V@5.255.102.41:17590?type=ws&path=%2Fhishhhh123&host=mooshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=mooshali.arshiacomplus.dpdns.org#TR%2Bws%2Btls-xmdgfvsoپ.ن:
 trojan://02XtoczO7V@5.255.102.41:17590?type=ws&path=%2Fhishhhh123&host=mooshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=mooshali.arshiacomplus.dpdns.org#TR%2Bws%2Btls-xmdgfvso🍀
 trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#TR+ws+tls-xmdgfvso3
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#trojan-ws-tlsکانفیگ
 trojan://o6x5BZAuSj@creativecommons.org:2053?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#TR+ws+tls3کلاینت
 trojan://o6x5BZAuSj@creativecommons.org:2053?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#TR+ws+tls3🙍‍♂:
 trojan://testme@212.113.102.67:2025?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&host=dns.google.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%F0%9F%8C%8D%20TR-WS-NONE%204%E2%83%A3
