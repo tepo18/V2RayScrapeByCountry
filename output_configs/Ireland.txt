@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@196.196.192.58:990#%253E%253E%2540free4allVPN%253A%253AIE%3A%3AIE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkVkpnY1FWQWxXWEtlMkZUMnRZMG5n@3.255.250.127:23456#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+3.255.250.127-23456+%7C+136.71ms
 trojan://telegram-id-directvpn@54.217.71.51:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%AAIreland
 trojan://telegram-id-directvpn@79.125.114.133:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%AAIreland
